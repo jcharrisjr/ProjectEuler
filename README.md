@@ -1,8 +1,8 @@
 Solutions to problems listed at https://projecteuler.net/archives
 
-Problem 11:  
+### Problem 11:  
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20 X 20 grid?
-<br>
+<br><br>
 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08<br>
 49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00<br>
 81 49 31 73 55 79 14 29 93 71 40 67 53 88 30 03 49 13 36 65<br>
@@ -25,9 +25,9 @@ What is the greatest product of four adjacent numbers in the same direction (up,
 01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48<br>
 
 
-Problem 19:
+### Problem 19:
 You are given the following information, but you may prefer to do some research for yourself.
-<br>
+<br><br>
 1 Jan 1900 was a Monday.
 Thirty days has September,
 April, June and November.
@@ -36,5 +36,5 @@ Saving February alone,
 Which has twenty-eight, rain or shine.
 And on leap years, twenty-nine.
 A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
-<br>
+<br><br>
 How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
